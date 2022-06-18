@@ -1,0 +1,1 @@
+export const hi = "嗨害嗨害嗨害嗨害嗨害嗨";
